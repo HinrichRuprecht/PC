@@ -1,0 +1,14 @@
+img is the directory for images of the symbols used in the PC (playing cards) 
+project.
+File names are "I<hex>-<color>.png', where <hex> is the utf hex code for the 
+symbol, and <color> stands for the card colors (0..3) plus some others:
+    0=spades=black
+    1=hearts=red
+    2=diamonds=orange
+    3=clubs=green
+    4=blue
+    6=yellow
+    7=silver
+    
+The images were created using Perl image package. They usually show the same as the 
+browser displaying the utf code.
