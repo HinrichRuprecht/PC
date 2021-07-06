@@ -1,0 +1,82 @@
+uu;Wechsel der Kartendarstellung
+gm;Kartenspiele
+XX;HELPTEXT
+Rd;neue Karten
+a2;Ansagen
+nt;mach weiter (Du hast den Stich)
+G1;gewonnen
+m1;minus
+ok;ok/Annahme/Startfreigabe
+bk;ein Schritt zurück (Doppelklick : 2 Schritte)\n(danach ist meist bei allen ein Reload=Str-R erforderlich)
+hl;Eigene Karten anzeigen bei ...
+p1;weiterer Spieler
+pi;Spielerpositionen festlegen
+pt;Punkteeingabe
+qq;Eingabe erforderlich
+tw;Anzahl gewonnener Stiche (letzte Punkte)
+nn;Spieler
+cc;Karten
+xx;Platzhalter (es fehlt was)
+00;Platzhalter
+rl;neu laden
+ji;jitsi-Umschaltung
+li;Info
+lc;Chat-Feld öffnen
+lg;Einstellungsmodus
+lt;Test
+ls;Stop des Sanduhr-Wartens
+gt;Punktestand
+an;Ansagen
+r0;zurzeit wird empfangen
+r1;zurzeit keine Eingabe
+wc;Sanduhr/warten auf
+rC;Server kommuniziert via Sockets
+rF;Server kommuniziert via Datei
+trick;Stich
+tricks;Stiche
+card;Karte
+cards;Karten
+ownNum;Spielernummer
+games;Spiele
+alreadyPlaying;"$1" ist schon dabei $2
+fullTable;Tisch ist voll besetzt
+noStepBack;zurück nicht möglich (zu wenige Haltepunkte)
+pleaseReload;Bitte neu laden klicken: 
+leftOverCards;Es gibt noch Karten. Ggf. nochmals 
+notYet;noch nicht
+toServe;$1 ist dran
+tooFew;zu wenige Spieler
+missing;fehlt
+toBid;fehlende Ansagen $1
+exactlyOnce;jeder muss genau einmal vorkommen!
+tableNotFound;Tisch nicht gefunden
+isTrump;$1[ ist Trumpf]
+lastTrick;letzter Stich
+newCards;Neue Karten
+spades;Pik
+hearts;Herz
+diamonds;Karo
+clubs;Kreuz
+ace;As
+king;König
+queen;Dame
+jack;Bube
+noTrump;kein Trumpf
+newPlayer;Anmeldung von $1
+waitForPlayers;warte auf weitere Spieler
+error;Fehler
+jitsi1;Jitsi im Fenster oder 'Abbrechen' und\n'PopUp' per LinksKlick auf 'Jitsi-Link' rechts unten
+jitsi2;Auf Laptop oder PC sollte gleich ein neues Fenster (Tab) für eine Jitsi-Videokonferenz aufgehen.\nSmartphones/Tablets benötigen die Jitsi-App)\nAlternativ: Str-LinksKlick auf 'Jitsi-Link' unten\nNäheres für die Darstellung der Fenster Klick auf 'i'.
+jitsi3;Jitsi-Bereich freigeben\nGgf. vorher abmelden!
+choseSortMode;Erst Sortierung wählen!
+choseSolo;Bitte Solo-Symbol klicken!
+alternatively;alternativ
+playernumber;Spielernummer
+points;Punkte
+eg;z.B
+countedFrom;gezählt ab
+noResponse;keine Antwort
+lastTrickAutomatic;letzter Stich automatisch
+pleaseWait;bitte warten
+nobody;niemand
+showCards;Karten von $1 bei $2

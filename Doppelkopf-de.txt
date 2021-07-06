@@ -1,0 +1,62 @@
+11;2. Herz 10 über die erste ?
+3J;Karlchen Müller ?
+2A;Fuchs
+Rd;neue Karten 
+HZ;Hochzeit
+Hz;Hochzeit-Partner
+AR;Armut
+Ar;Armut-Partner
+A0;Pik-Solo
+A1;Herz-Solo
+A2;Karo-Solo
+A3;Kreuz-Solo
+AQ;Damen-Solo
+AJ;Buben-Solo
+AN;Fleischlos-Solo
+B1;Re
+B2;Kontra
+B9;keine 90!
+B6;keine 60!
+B3;keine 30!
+B0;schwarz!
+SS;zeigt Sortier-Buttons
+ss;Solo : vorher Sortiersymbol klicken
+ss;Solo entsprechend der Sortierung
+S0;Pik-Trumpf-Sortierung
+S1;Herz-Trumpf-Sortierung
+S2;Karo-Trumpf-Sortierung
+S3;Kreuz-Trumpf-Sortierung
+SQ;Damen-Trumpf-Sortierung
+SJ;Buben-Trumpf-Sortierung
+SN;Fleischlos-Trumpf-Sortierung
+0T;Spieltischmitte
+Nx;nächster/verzichte
+Vb;Vorbehalt
+Dk;Doppelkopf (>=40)
+Lh;Eigene Karten anzeigen bei ...
+G2;gegen die Alten
+K9;keine 90
+K6;keine 60
+K3;keine 30
+K0;schwarz
+G9;>=90
+G6;>=60
+G3;>=30
+G0;nicht schwarz
+gm;Doppelkopf
+nines;Neunen
+kings;Könige
+nonTrump;nicht-Trumpf
+helpPt;z.B. K3 : Kontra mit 3 Punkten, R-1 : Re gewann, aber wg. Punktabzug negativ
+active;aktiv
+noMoreBids;keine weiteren Ansagen zulässig
+povertyPartner;$1 spielt mit bei]AR[von $2
+changeCards;Tauschkarten von $1
+pleaseClickChangeCard;Bitte Tauschkarte klicken
+povertyOpen;$1 spielt eine Armut und sucht
+povertyComplete;Austausch $1 : $2 beendet
+trumpsReturned;$1 Trumpf zurück
+povertyNoPartner;Niemand will mit $1]AR[spielen
+playerPlays;$1 spielt
+whoPlays;Wer denn nun
+pleaseCheckOrChange;Bitte bestätigen oder ändern

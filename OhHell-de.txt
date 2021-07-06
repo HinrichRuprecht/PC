@@ -1,0 +1,13 @@
+A0;0 Stiche
+A1;1 Stich
+Cp;plus 1 Karte
+Cm;minus 1 Karte
+S0;Pik
+S1;Herz
+S2;Karo
+S3;Kreuz
+G1;richtig
+G0;falsch
+gm;Teufelsskat / OhHell
+change1;Du kannst nur um +/- 1 ändern!
+pleaseCheckOrChange;Bitte bestätigen oder ändern
