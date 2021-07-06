@@ -1,8 +1,0 @@
-gm;Bridge
-Nx;Pass
-Ko;Kontra
-Re;Rekontra
-hearts;Cœur
-clubs;Treff
-noTrump;ohne Trumpf
-nTricks;$1 Stiche ($2)
